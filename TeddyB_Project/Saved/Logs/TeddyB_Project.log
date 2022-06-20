@@ -918,3 +918,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.20-04.38.57:707][421]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.095ms.
 [2022.06.20-04.38.57:707][421]LogFileHelpers: Loading map 'Children_room' took 0.016
 [2022.06.20-04.39.07:726][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.06.20-04.41.07:936][566]LogSavePackage: Moving '../../../../../../Users/KAIA_007/Desktop/곰아지프로젝트/TeddyB_Project/Saved/Children_room_BuiltData012697A046F73924E1C8E792B19E3A2E.tmp' to '../../../../../../Users/KAIA_007/Desktop/곰아지프로젝트/TeddyB_Project/Content/ThirdPersonBP/Maps/Children_room_BuiltData.uasset'
+[2022.06.20-04.41.07:941][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.20-04.41.07:956][566]LogSavePackage: Moving '../../../../../../Users/KAIA_007/Desktop/곰아지프로젝트/TeddyB_Project/Saved/Children_roomA523475E4BFEBEB3BACA19A6D924ADC4.tmp' to '../../../../../../Users/KAIA_007/Desktop/곰아지프로젝트/TeddyB_Project/Content/ThirdPersonBP/Maps/Children_room.umap'
+[2022.06.20-04.41.07:959][566]LogFileHelpers: Saving map 'Children_room' took 0.022
+[2022.06.20-04.41.07:992][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.06.20-04.41.07:995][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.06.20-04.41.08:003][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.06.20-04.41.08:006][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.06.20-04.41.08:030][566]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.20-04.41.08:030][566]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Children_room_BuiltData.Children_room_BuiltData 유효성 검사 중
+[2022.06.20-04.41.08:030][566]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/Children_room.Children_room 유효성 검사 중
+[2022.06.20-04.41.24:999][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.20-04.41.25:185][328]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainMap.MainMap
+[2022.06.20-04.41.25:185][328]Cmd: MAP LOAD FILE="../../../../../../Users/KAIA_007/Desktop/곰아지프로젝트/TeddyB_Project/Content/ThirdPersonBP/Maps/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.20-04.41.25:185][328]LightingResults: New page: 라이팅 빌드
+[2022.06.20-04.41.25:185][328]LoadErrors: New page: 맵 로드 중: MainMap.umap
+[2022.06.20-04.41.25:227][328]LogWorld: UWorld::CleanupWorld for Children_room, bSessionEnded=true, bCleanupResources=true
+[2022.06.20-04.41.25:227][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.20-04.41.25:227][328]MapCheck: New page: 맵 체크
+[2022.06.20-04.41.25:227][328]LightingResults: New page: 라이팅 빌드
+[2022.06.20-04.41.25:231][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.20-04.41.25:233][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.20-04.41.25:239][328]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2022.06.20-04.41.25:241][328]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/SubMap_1) is flushing async loading
+[2022.06.20-04.41.25:241][328]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.06.20-04.41.25:246][328]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/SubMap_2) is flushing async loading
+[2022.06.20-04.41.25:250][328]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.20-04.41.25:250][328]LogAIModule: Creating AISystem for world MainMap
+[2022.06.20-04.41.25:255][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.06.20-04.41.25:257][328]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.20-04.41.25:258][328]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.167ms.
+[2022.06.20-04.41.25:258][328]LogFileHelpers: Loading map 'MainMap' took 0.073
+[2022.06.20-04.41.30:214][815]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.06.20-04.41.30:233][815]LogContentBrowser: Creating deferred item: NewWorld
+[2022.06.20-04.41.44:570][495]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2022.06.20-04.41.44:573][495]LogContentBrowser: End creating deferred item NewWorld
+[2022.06.20-04.42.00:138][347]LogContentBrowser: Attempting asset rename: NewWorld -> Circus_main
+[2022.06.20-04.42.00:178][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.20-04.42.00:180][347]LogSavePackage: Moving '../../../../../../Users/KAIA_007/Desktop/곰아지프로젝트/TeddyB_Project/Saved/Circus_mainAD16DC9A4E5C323AEA2E85AAEC42D38E.tmp' to '../../../../../../Users/KAIA_007/Desktop/곰아지프로젝트/TeddyB_Project/Content/ThirdPersonBP/Maps/Circus_main.umap'
+[2022.06.20-04.42.00:180][347]LogFileHelpers: Saving map 'Circus_main' took 0.007
+[2022.06.20-04.42.00:227][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.20-04.42.00:235][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.06.20-04.42.00:238][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.06.20-04.42.00:256][347]AssetCheck: New page: 에셋 저장:  Circus_main
+[2022.06.20-04.42.00:256][347]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/Circus_main.Circus_main 유효성 검사 중
+[2022.06.20-04.42.07:641][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.06.20-04.42.08:582][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
